@@ -8,7 +8,7 @@ int main(void)
 	char a;
         int b;
         long int c;
-        long long d
+        long long d;
         float f;
 
 printf("Size of a char: %lu byte(s)\n",(unsigned long)sizeof(a));
